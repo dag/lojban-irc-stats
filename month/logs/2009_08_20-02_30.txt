@@ -1,0 +1,584 @@
+02:29:51 <donri> mi kancu li pa sa re fo zo'e
+02:37:50 <dbrock> .u'i
+02:46:54 <donri> i'e sei la i'enator cusku
+02:47:31 <dbrock> .i za'e .i'esku
+02:47:45 <donri> u'i
+02:47:59 <donri> sei pilno be lo za'e u'ivla
+02:49:26 <timonator> u'i doi dibrak
+02:49:51 <dbrock> .i zo .i'esku .e zo .u'ivla za'e ma'ojvo
+02:50:07 <timonator> u'i
+02:50:16 <timonator> zo u'ivla fu'ivla
+02:51:32 <dbrock> .ie .i lo ma'ojvo cu se tarmi be lo fu'ivla be'o norjvo
+02:51:56 <timonator> i am
+02:52:19 <donri> i'e
+02:53:07 <timonator> coi bandu
+02:53:40 <bandu> coi rodo .uipei
+02:53:48 <timonator> sai
+02:53:50 <bandu> coi .timos.
+02:53:50 <timonator> ro'u
+02:54:31 <bandu> .u'i
+03:56:13 <timonator> falnu
+04:13:46 <donri> lo do mamta cu me zo falnu
+04:14:07 <timonator> lo mi mamta be do cu me zo falnu
+04:14:38 <donri> i'e mi troci lo nu rinka lo nu do cusku di'u
+04:15:34 <donri> ni'o oi mi dukse tatpi
+04:16:00 <donri> i ei ku'i cikna
+04:16:10 <donri> i nu sipna au sai
+04:23:52 * donri pensi lo nu pilno la'o gy jquery visualize gy lo nu xagzengau le za'e datnykancu
+04:32:45 <dbrock> .i .i'o lo si'o co'e lo mi mamta be do cu mutce xajmi je lojbo
+04:34:10 <donri> mi troci lo nu xajmi pixra fi na'e bo mi doi daniel
+04:34:46 <donri> i xu do certu te pixra
+05:56:24 <kribacr> .u'i
+06:06:46 <donri> ue oi cai ro'o xagji
+06:09:10 <cmacis> coi rodo
+06:09:19 <cmacis> .oi mi cikna binxo
+06:09:26 <cmacis> .i mi pu pluka senva
+06:15:12 <kribacr> xu do na ca gunka .ei doi cmacis
+06:15:36 <cmacis> na go'i
+06:15:52 <cmacis> .i mi djica lo ckafi
+06:16:34 <cmacis> .i mi xagji
+07:01:08 <xalbo> .i mi me la .irc. ca lo nu mi jibri gunka ku po'o
+07:01:42 <cmacis> .ua
+07:02:35 <donri> ma jibri do doi la xalbo
+07:03:33 <xalbo> mi kurji lo skami do'e lo balcu'e
+07:04:44 <donri> ua
+07:05:01 <xalbo> .i ma stuzi le da'u vreji
+07:06:40 <donri> coi le masti jatna pe'a no'u la klaid
+07:10:18 <timonator> u'i lu masti jatna cu xajmi mi
+07:17:12 <timonator> i mi ai ba jinga ta'i lo nu yyyyy sa i la'a mi na jinga ki'u lo du'u mi ba zi lo djedi be li pi ze mu cu vinji klama la fuerteventurar
+07:30:44 <lindar> coi
+07:31:23 <donri> lo do mamta be mi
+07:32:30 <donri> y mi tavla fi le mamta be ba'e mi
+07:49:27 <djanatyn> coi rodo
+07:49:38 <kozmikreis> coi la .djanatyn.
+07:52:55 <donri> ui coi le bruna no'u la djanatyn
+07:53:17 <djanatyn> coi lo bruna .ui
+07:58:53 <florolf> coi rodo
+07:59:02 <cmacis> coi
+08:01:58 <djanatyn> .ui
+08:09:01 <djanatyn> .ua mi viska lo crino bifce
+08:09:29 <djanatyn> lo crino bifce cu zvati lo zdani pe loi bifce
+08:09:39 <djanatyn> mutce cizra
+08:10:34 <djanatyn> .u'i
+08:11:36 <djanatyn> lo du'u lo bifce mipypu'i kei rinka lo nu lo bifce cu viska mi
+08:12:59 <florolf>  selbakni
+08:14:12 <donri> ai sipna co'o
+08:14:24 <florolf> co'o la donri
+08:14:25 <djanatyn> co'o la donri
+08:14:26 <florolf> ko cinsne
+08:14:39 <donri> go'i la djanatyn vi'o
+08:14:57 <florolf> u'i
+10:18:41 <selckiku> coi do
+10:19:17 <selckiku> do mo ca le ca cibdei
+10:19:41 <timonator> coi selkik
+10:19:53 <timonator> au pei mi cilre fi la okarinar
+10:21:10 <selckiku> ru'e .i ba cinri .i mi nelci la okarinar
+10:21:46 <selckiku> mi .ai cilre fi lo za'e jgitrmandolini
+10:22:16 <timonator> ue
+10:22:26 <timonator> mi ai cilre fi la jgita ji'a
+10:22:48 <timonator> mi ca'o jgita fliba
+10:24:17 <selckiku> mi pu pilno lo xagri .i sa'e za'e xagrnklarineti .i ku'i dukse cladu
+10:24:38 <selckiku> .i mi nitcu lo nu mi cilre fi lo za'e zgitci poi smaji
+10:24:55 <selckiku> coi kribacr
+10:25:01 <kribacr> .ui coi selkik
+10:25:05 <kribacr> .i gau do mo
+10:25:15 <timonator> u'i
+10:26:06 <kribacr> .oi gunka .i de'a jundi
+10:26:20 <timonator> ui nai dai
+10:27:04 <derf0> je'e
+10:36:32 <cmacis> .ui mi citka lo cidjrnudle
+10:37:03 <selckiku> do ma citka doi cmacis-
+10:37:32 <selckiku> .ua zo cidjrnudle
+10:37:57 <selckiku> mi srera viska zoi zoi "cidjmudle" zoi
+10:39:16 <selckiku> mi djica lo nu klama le vi cnino je cidjrnudle gusta
+10:43:54 <xalbo> .i lo cidjrmudle cu tadji lo nu jukpa lo me zo'oi mojito
+10:46:22 <xalbo> .i le'e tamxri mi mutce kukte
+11:00:32 <codrus> ki'a
+11:03:29 <codrus> go'i lo zoi ly MvC2 ly
+11:18:41 <codrus> coi ty
+11:38:54 <djanatyn> co'o
+11:48:46 * kribacr spoja
+12:00:41 <dbrock> .i mi za'o zvati lo briju za'u re'u ku .oi
+12:01:04 <dbrock> sa
+12:01:22 <dbrock> .i mi za'u re'u .oi za'o zvati lo briju
+12:07:27 <codrus> .oidai ko sisti lo se gunka gi'e kelci
+12:07:30 <djanatyn> coi rodo :)
+12:07:41 <codrus> coi dy
+12:07:42 <timonator> coi djanatyn
+12:14:27 * lindar jigai.
+12:14:39 <codrus> doi timo .i .e'u ko mipri lo me ko moi
+12:18:45 <timonator> ge joi mi gi do bevri lo pipno
+12:19:01 <florolf> gi joi mi gi do broda
+12:20:00 <florolf> joi gi mi gi do broda
+12:23:04 <timonator> like a surfboard?
+12:24:00 <djanatyn> .u'i
+12:30:07 <codrus> .ue
+12:31:29 <djanatyn> .uisai
+12:57:50 <kribacr> xu do dotco doi florolf
+13:00:15 <codrus> ly. cu na zvati .i seki'u pe'i klama lo zu'o te vecnu lo pixra finti minji
+13:03:35 <florolf> go'i doi ky
+13:03:48 <florolf> ma mukti lo nu do te preti
+13:04:09 <codrus> u'inai lo se du'u lo go'i cu za'o se finti mi
+13:04:29 <codrus> u'inai lo se du'u lo go'i po mi cu za'o se finti mi
+13:09:38 <kribacr> xu so'i dotco cu kelci la'o gy. D&D .gy. doi florolf
+13:09:56 <florolf> mi na'e birti
+13:10:26 <florolf> i sa'e so'u dotco kelci dy
+13:10:32 <florolf> si si cu kelci dy
+13:10:37 <florolf> to mi bebna toi
+13:10:54 <kribacr> .ua
+13:11:44 <kribacr> .yy. .i xu go'a la'o gy. board games .gy.
+13:12:23 <florolf> na go'i
+13:12:34 <kribacr> .uu
+13:12:52 <kribacr> mi mutce nelci lo nu mi ja'a go'i
+13:13:07 <kribacr> .i xu do ja'a go'e
+13:14:39 <xalbo> .oi la .niub. cu terpa tu'a do'o
+13:16:40 <kribacr> coi cnita linji
+13:17:26 <djanatyn> coi .i mi xruti
+13:17:48 <kribacr> go'i ma
+13:19:11 <djanatyn> ma rinka lo nu do na gleki doi lindar
+13:19:23 <kribacr> pe'i fo'e djica lo nu sipna
+13:20:01 <lindar> .yyyyy. lo ninmu nabmi
+13:20:41 <djanatyn> .ua
+13:21:23 <djanatyn> mi pu jinvi lo nu do ninmu .i xu do ninmu
+13:22:17 <lindar> na go'i
+13:22:23 <kribacr> .u'i
+13:22:28 <kribacr> fo'e du fo'e
+13:22:59 <lindar> .i mi nanmu noi ninmu nabmi
+13:23:12 <lindar> vau zo'o
+13:23:38 <kribacr> .u'i sai
+13:24:25 <djanatyn> .ua mi jimpe
+13:25:19 <codrus> tu'a .ly. ze'e gasnu lo nu mi cmila
+13:25:20 <xalbo> lo'u ninmu nabmi le'u tanru .i lo nanmu poi lo ninmu ke'a fengu cu se ke ninmu nabmi
+13:34:26 <xalbo> .i mi stidi tu'a lu .o'o nai cai le'o .au ro'u li'u se .u lo simsa
+13:35:16 <lindar> AH! fetsi nabmi
+13:39:25 <codrus> mi manci zgana lu se ke ninmu nabmi li'u poi se cusku doi xalbo
+13:41:40 <codrus> u'isai
+13:44:34 <xalbo> .i lo ka jgira cu ge na pagbu gi tutci
+13:52:52 <djanatyn> .u'i
+13:55:42 <dbrock`> coi ro do
+13:55:53 <codrus> coi dbrock
+13:56:04 <djanatyn> coi dy
+13:56:09 <dbrock`> .i casnu lo xalxo xu za'a
+13:56:14 <dbrock`> sa'ai xalbo le'ai
+13:57:05 <dbrock`> .i za'a la .lojgliban. cu mabla
+13:59:54 <djanatyn> ko na sipna
+13:59:55 <dbrock`> .i .e'u casnu lo cinse
+14:00:20 <dbrock`> ji lo drata cinri
+14:00:46 <dbrock`> .u'i .io
+14:02:34 <dbrock`> .i le mamta be do cu cinse tu'a lo mi since
+14:02:52 <dbrock`> lo'ai le le'ai .u'i
+14:04:11 <dbrock`> .i zo le zo'u ba'e ma pau nai pilno ca lo cabna cedra
+14:05:59 <dbrock`> .i .oi lo mi zdani cu dukse lo ka glare
+14:06:47 <xalbo> .i fagri xu
+14:06:47 <djanatyn> .u'i mi na glare .i mi mutce lenku
+14:07:04 <codrus> mi nelci lo ka glare
+14:07:24 <djanatyn> ko na carvi doi dilnu .oi
+14:08:02 <codrus> ku'i na skami viska glare
+14:08:20 <djanatyn> .ua
+14:09:03 <djanatyn> lo mi fonxa la'o na kakne lo nu glare
+14:10:05 <dbrock`> .y.
+14:10:07 <djanatyn> la'a
+14:10:38 <dbrock`> .i .e'o ko cusku lo se smuni
+14:10:55 <dbrock`> .ua
+14:11:13 <dbrock`> .i do cusku ve cu'u la .irk. se pi'o lo fonxa xu
+14:13:18 <codrus> .ue
+14:22:45 <dbrock`> .i mi ba'o pinxe lo plise jisra
+14:23:03 <dbrock`> .i cinmo lo milxe mabla
+14:29:10 <codrus> doi lindar xu lo do terjerna cu finti lo skami ke kelci zgike
+14:30:08 <codrus> doi lindar xu lo do terjerna cu finti lo skami ke se kelci zgike
+14:30:27 <lindar> .yyyyyy. mi djica go'i
+14:30:36 <codrus> je'e
+14:34:58 <codrus> .io je'e
+14:35:04 <codrus> ki'e
+14:35:05 <djanatyn> .io
+14:35:09 <djanatyn> .u'i
+14:37:12 <codrus> same
+14:40:34 <dbrock`> .i mi xagji lo nu jikca
+14:47:36 <codrus> .ei ji'a
+14:56:47 <codrus> nice
+14:59:24 <dbrock`> .i ma judri
+15:00:45 <codrus> je'e
+15:03:03 <djanatyn> co'o
+15:11:52 <dbrock`> .i mi ji'a nelci lo zgike .ui .i'o .ue .u'e .io
+15:18:32 <djanatyn> .u'i
+15:22:01 <djanatyn> .u'i
+15:24:53 <cmacis> co'o rodo
+15:24:57 <cmacis> sipna
+15:25:07 <lindar> co'o cmacis
+15:26:55 <djanatyn> do pu nanmu .iku'i do ca ninmu .i do pu cizra .i do ca cizra .i do ba cizra .u'i
+15:36:08 <djanatyn> .u'i
+15:45:34 <djanatyn> .u'i
+16:57:11 <pafcribe> coi jundi
+16:57:42 <Tene> coi
+16:59:48 <pafcribe> do ma
+16:59:52 <pafcribe> si mo
+17:00:49 <djanatyn> coi
+17:04:33 <pafcribe> coi .dy
+18:12:33 <omologos> ui coi jbopre
+18:22:50 <pafcribe> coi .omo
+18:27:11 <neptunepink> coi obu.
+18:32:40 <omologos> ui coi redo
+18:33:08 <omologos> au mi'o tavla bau la lojban
+18:33:23 <omologos> y mi'o pu go'i li'a
+18:33:28 <omologos> u'i
+18:34:20 <pafcribe> u'i
+18:35:30 <omologos> ua
+18:35:32 <pafcribe> .u'icai .uicai
+18:36:00 <omologos> i ti me lo bilma nu jivna
+18:36:56 <neptunepink> la lojban na xe se pilno lo nu tavla
+18:37:00 <omologos> y
+18:37:13 <pafcribe> xu zasti fa lo cinmo valsi be zoi .gy COMPETITION!!!! .gy
+18:37:18 <omologos> ma se smuni lo skari doi la donri
+18:37:47 <omologos> pe'u na go'i doi pafcribe
+18:37:50 <donri> le tcika
+18:38:05 <neptunepink> xu la pafcribe cu zdani tarci bajra
+18:38:09 <omologos> uanai
+18:39:37 <omologos> ua i mi ca jimpe
+18:40:15 <omologos> i ma te cacra doi la donri
+18:40:39 <donri> la vreji dk
+18:41:12 <pafcribe> doi .omo e'u lu ma smuni lo skari doi la donri li'u
+18:41:33 <donri> mo
+18:42:15 <pafcribe> ma se tavla doi donri
+18:42:21 <omologos> ki'a doi la pafcribe .e la donri
+18:42:24 <donri> le datna kancu ca cnino gau mi
+18:42:26 <omologos> ua
+18:43:17 <donri> ue do vo moi doi djanatyn
+18:44:11 <omologos> ua go'i
+18:45:00 <donri> e'u do la'a djisku lu xu do djisku lu li'o li'u li'u doi la pafcribe
+18:45:10 <omologos> xu le do kacu cu cima gasnu lo lojbo jufra po'o doi la donri
+18:45:17 <omologos> sa
+18:45:27 <omologos> xu le do kacu cu cmima gasnu lo lojbo jufra po'o doi la donri
+18:45:59 <donri> go'i i la vreji dk cu vreji lo lojbo po'o
+18:46:11 <omologos> i'e
+18:46:34 <donri> y u'i o'a nai mi fliba i lo'u la vreji dk le'u li'a na gendra
+18:46:42 <omologos> i xu lo namcu cu kancu lo lojbo jufra
+18:46:42 <pafcribe> .uuse'i
+18:46:55 <pafcribe> mi pa mleca
+18:47:05 <donri> ca'e mi te cmene fi zo vrejidyk
+18:48:13 <omologos> i xu lo namcu cu kancu lo lojbo jufra doi la donri
+18:48:55 <donri> go'i lo lojbo ba'e la'a
+18:49:19 <donri> i troci lo nu vreji lo lojbo ba'e troci
+18:49:20 <omologos> je'e
+18:49:29 <donri> si nu troci
+18:49:44 <omologos> je'e
+18:50:00 <donri> mu'a vreji lo na'e gendra
+18:50:10 <omologos> ua
+18:50:12 <omologos> i'enai
+18:50:18 <donri> i je ku'i troci lo nu na vreji lo la'a glico
+18:50:39 <donri> mu'a
+18:50:41 <omologos> je'e
+18:53:09 <omologos> mu'a ma
+18:53:14 <donri> lo na'e gendra cu plixau le baupla fuzykamni
+18:53:44 <donri> i lo nu djuno lo'e gendra nu fliba cu go'i
+18:55:49 <omologos> i mi pu caucni lo namcu nu lanli be la iburycys
+18:56:08 <donri> i ai ru'e mi platu lo gendra po'o ke masti datni bo kancu au pei
+18:56:10 <omologos> i ma pu se zvati le purci
+18:56:45 <omologos> y
+18:56:52 <omologos> sai
+18:57:00 <omologos> si cu'i
+18:57:11 <donri> i ku'i ca xagji u'i
+18:57:39 <omologos> i mi ji'a go'i
+18:57:47 <pafcribe> mi zgana lo nu zmadu tavla kei bazi lo nu donri cusku zoi .url .url
+18:58:06 <donri> u'i
+18:58:15 <donri> mi djica lo nu jinga li'a
+18:58:21 <pafcribe> mi go'i
+18:58:33 <donri> ko na curmi lo nu la klaid jinga
+18:58:42 <pafcribe> sa ra'o go'i
+18:58:51 <omologos> u'i
+18:58:52 <donri> do djisku e'u lu go'i ra'o li'u
+18:59:01 <omologos> i mi na djica lenu mi jinga
+18:59:07 <donri> coi la manti
+18:59:14 <pafcribe> ua
+18:59:16 <donri> zo manti cmene ko
+18:59:46 <pafcribe> doi .omo .aupei do nu jinga
+18:59:58 <omologos> mi nelci zo cizgarmanti
+19:00:09 <donri> lo'u omo le'u na ka'e cmene bau la lojban
+19:00:33 <donri> i e'u zo oskar a zo omologos cmene
+19:00:48 <omologos> ru'e doi la pafcribe
+19:01:00 <pafcribe> je'e
+19:01:18 <pafcribe> doi .donri. .u'u .i do drani
+19:01:24 <donri> no'i mi na nelci lo nu la manti cu za'u pa mei se cmene
+19:02:10 <pafcribe> uanai
+19:02:36 <omologos> ije ku'i mi se spaji le du'u mi cusku ca le crino cacra
+19:03:07 <donri> sa'e mi na nelci lo nu la manti cu se cmene za'u pa cmene
+19:03:32 <omologos> u'i
+19:03:56 <omologos> one
+19:03:59 <donri> ju'o cu'i i mi ai jai gau smuni lo drata ku'i'
+19:04:45 <pafcribe> ki'a zoi .ki'a ku'i' ki'a
+19:04:59 <donri> su ju'o cu'i i mi ai jai gau smuni lo drata ku'i
+19:05:00 <pafcribe> mi na xamgu prenu
+19:05:01 <omologos> u'i
+19:05:17 <omologos> li'a
+19:05:22 <donri> xu do ke pe'a xlali nanla
+19:05:34 <omologos> ki'u ma doi pafcribe
+19:05:45 <omologos> u'isai
+19:06:03 <omologos> i do li'a cribe ku'i
+19:06:03 <pafcribe> ki'u mi .yyyy zoi .gy nit-pick .gy tavla la donri
+19:06:16 <pafcribe> u'icai
+19:06:25 <omologos> zo'o
+19:06:32 <pafcribe> drani
+19:06:46 <pafcribe> mi li'a xlali cribe
+19:07:12 <djanatyn> coi codrus
+19:07:38 <omologos> coi ro lo vi jundi
+19:07:45 <donri> ue ko lojbo gi'e jinga doi djanatyn
+19:07:50 <codrus> no
+19:10:01 <donri> i ko lojbo gi'e jinga
+19:10:35 <donri> sa'e ko tavla fo la lojban gi'e jinga
+19:11:15 <pafcribe> mi xenru lo nu mi binxo rinka lo mi cmene .yyyyy... .i xu zasti lo gismu smuni zoi .gy change .gy
+19:11:17 <donri> i e'u ko zenba
+19:12:31 <djanatyn> mi na djuno lo nu mi kakne lo nu jinga
+19:12:49 <pafcribe> u'odai doi .dy
+19:13:01 <pafcribe> mi djuno lo nu do ka'e go'u
+19:13:16 <donri> mi finti ca le prulamdei doi djanatyn
+19:13:30 <djanatyn> *mi pu na djuno .u'i
+19:13:41 <omologos> xu lo tordu jufra cu se kancu doi la donri
+19:13:47 <donri> go'i
+19:13:59 <omologos> xu zo ua se kancu
+19:14:04 <omologos> ui
+19:14:05 <omologos> ua
+19:14:07 <omologos> uo
+19:14:12 <pafcribe> ko sisti
+19:14:21 <donri> i ku'i mleca le do valsi kancu
+19:14:22 <omologos> i cimei jufra
+19:14:23 <pafcribe> do tcica
+19:14:57 <omologos> mi na jimpe
+19:15:10 <omologos> ua
+19:15:19 <pafcribe> ko na cusku di'u doi donri
+19:15:26 <donri> u'i
+19:15:28 <omologos> i mi cusku lo tordu jufra
+19:15:43 <pafcribe> la omologos bazi cusku lu .uo .ui .ua li'u
+19:16:01 <omologos> na go'i
+19:16:12 <djanatyn> xu do kakne lo nu jinga lo seljinga
+19:16:28 <pafcribe> ma valsi zo mupli
+19:16:33 <donri> u'i ro seljinga cu seljinga doi djanatyn
+19:17:01 <omologos> li'a
+19:17:11 <djanatyn> .u'i
+19:17:32 <donri> ua do troci lo nu zenba le do valsi kancu
+19:17:36 <omologos> i ma te cacra doi la donri
+19:17:54 <donri> i na jimpe
+19:18:07 <omologos> iku'i do finti
+19:18:12 <donri> do pu te preti i je mi spuda
+19:18:13 <omologos> xu
+19:19:31 <donri> mi pu spuda
+19:19:37 <donri> i la vrejidyk co'e
+19:20:03 <omologos> je'e
+19:20:04 <djanatyn> .ua mi viska lo nu mi pu tavla fo la lojban .uisai
+19:20:07 <omologos> u'uco'i
+19:20:15 <omologos> si u'ucu'i
+19:20:26 <donri> u'i
+19:21:39 <djanatyn> mi na pu djuno lo nu do vreji .iku'i mi nelci lo vreji
+19:22:03 <djanatyn> coi rodo :)
+19:22:17 <omologos> y coi
+19:22:41 <omologos> i xu do pu cusku lu coi rodo li'u doi djanatyn
+19:23:10 <djanatyn> go'i
+19:23:21 <omologos> je'e
+19:23:25 <donri> vreji lo lojbo po'o doi djanatyn
+19:23:44 <omologos> i pe'i la donri baza jinga
+19:23:46 <djanatyn> .ua
+19:23:53 <donri> le ba tcidu na djuno lo du'u do jai gau boxna
+19:23:59 <djanatyn> xu vreji lo glibau
+19:24:08 <pafcribe> xu su'o do djuno lo zoi .gy discursive .gy valsi smuni zo mupli
+19:24:54 <donri> zo mu'a doi la pafcribe
+19:25:09 <pafcribe> ki'e do
+19:25:16 <pafcribe> na go'i doi .dy
+19:25:27 <djanatyn> .u'i
+19:25:34 <pafcribe> lo vreji na vasru lo glico valsi
+19:25:47 <djanatyn> ua
+19:25:49 <donri> ue xu le jufra cu cmene doi djanatyn
+19:25:52 <djanatyn> mi jimpe
+19:26:01 <omologos> ma jatna ma doi la djanatyn
+19:26:21 <Tene> ki'e
+19:26:39 <pafcribe> ma cu vlatai doi tene
+19:27:13 <djanatyn> mi na jimpe doi omologos
+19:27:26 <omologos> lojbo valsi samtci doi la pafcribe
+19:27:37 <donri> zo'oi narwhal ki'a
+19:28:10 <donri> ua ma fu'ivla
+19:28:14 <omologos> xamsi mabru doi la donri
+19:28:27 <omologos> y
+19:29:23 <omologos> e'u zo mabrnarvalo
+19:29:48 <donri> i'i mi pu zi finti zo mronosero
+19:29:50 <omologos> na nelci
+19:29:54 <djanatyn> ma jinga fi'o namcu ma
+19:30:07 <donri> i ku'i nelci zo monsero
+19:30:07 <omologos> sa i nelci
+19:30:27 <pafcribe> ma smuni zo mronosero
+19:30:42 <omologos> li ci'i doi djanatyn
+19:30:56 <omologos> li'a u'i zo'o
+19:30:57 <donri> ie zo mornoseroso melbi
+19:31:19 <omologos> iku'i clani
+19:31:59 <pafcribe> ie doi omologos
+19:32:00 * djanatyn spoja
+19:32:03 <omologos> i ti la'a du le clani traji nu casnu noi mi casnu
+19:32:15 <donri> ko sisti lo nu di'i spoja doi djanatyn i na djica lo nu do morsi ui nai
+19:32:27 <omologos> o'i ii la djanatyn pu spoja
+19:32:50 <omologos> zo'o
+19:33:01 <djanatyn> mi na morsi .iku'i mi pu spoja
+19:33:24 <omologos> i xu do pu cusku lo ci'i jufra doi djanatyn
+19:33:27 <omologos> zo'o
+19:33:30 <djanatyn> ko jinvi lo nu mi na morsi
+19:33:46 <djanatyn> .u'i
+19:34:16 <omologos> la klaid
+19:35:27 <pafcribe> mi snuti tcica
+19:35:45 <omologos> using zoi gy clani jufra bau lo rarbau gy
+19:36:15 <pafcribe> mi cliva
+19:36:28 <omologos> co'o
+19:36:40 <djanatyn> co'o tradels
+19:36:55 <djanatyn> .ua co'o pafcribe .u'i
+19:37:17 <pafcribe> lo speni be mi cu cpedu lo zoi .gy back massage .gy .i ma se smuni lo se go'i
+19:37:34 <pafcribe> ua
+19:38:12 <omologos> pe'i na go'i
+19:38:27 <pafcribe> u'inaisai
+19:39:17 <pafcribe> mi junri cliva
+19:39:18 <pafcribe> co'o
+19:40:01 <djanatyn> lo speni be do cu la'a cortu
+19:40:07 <djanatyn> co'o pafcribe
+19:41:43 <djanatyn> i
+19:45:07 <donri> ue xagji
+19:45:29 <donri> mabla doi cevni ki'u ba'e ma
+19:46:03 <donri> i mi xebni lo nu xagji
+19:48:36 <omologos> i mi ji'a xagji oi
+19:48:48 <Tene> mi na xagji
+19:48:53 <Tene> mi ba za citka lo kukte
+19:48:56 <omologos> i mi bazi citka
+19:49:10 <Tene> .u'u mi pu za citka
+19:49:28 <Tene> .i ku'i la'a ji'a mi ba za citka
+19:53:04 <omologos> i mi ca citka lo snuji ui
+19:54:25 <Tene> mi citka lo rismi joi kapsiku joi tsaprpiperi joi najgenja joi nargralmonda joi tsaprkumini joi bakni joi sobysanso
+19:54:25 <Tene> joi drata
+19:54:57 <omologos> oi mi citka lo snuji po'o
+19:55:50 <djanatyn> mi citka la omologos .ui
+19:56:02 <donri> ue
+19:56:06 <omologos> ii ko na citka
+19:56:07 <djanatyn> mi mutce xagji .u'i
+19:56:13 <omologos> mi bajra
+19:56:32 <omologos> do na ba citka mi
+19:57:01 <donri> zo xalbo cmene la'oi eimi doi codrus
+19:58:14 <djanatyn> eimi = xalbo.
+20:01:12 <codrus> .ua ki'e
+20:07:29 <omologos> jajaja
+20:12:43 <donri> zo'o ku'i
+20:15:27 <donri> oi doi mi ko citka
+20:15:33 <donri> vi'o mi ai citka
+20:15:44 <donri> y i citka ma
+20:16:03 <donri> i go'i la djanatyn ju'o cu'i
+20:16:04 <codrus> tu'a lo du'u la eimis. du la xalbos. cu ciksi mi lo nu mi puzi mutce nelci li ci bridi po la xalbos.
+20:16:06 <donri> e'a pei doi djanatyn
+20:16:36 <donri> zo xalbo e nai zo xalbos cmene
+20:17:00 <codrus> .yy.
+20:17:22 * donri nurxru la djanatyn 
+20:17:25 <omologos> u'isai
+20:17:43 <donri> e'u klama le karcrbatmano
+20:18:19 <omologos> mi klama
+20:18:58 <codrus> tu'a lo du'u la eimis. du zo xalbo cu ciksi mi lo nu mi puzi mutce nelci li ci bridi po zo xalbo
+20:19:17 * omologos cliva fo le karcrbatmano
+20:19:18 <omologos> ga'i
+20:19:22 <omologos> zo'o
+20:19:42 * omologos xrukla fu lo sorprekarce
+20:19:58 <donri> ga'i lu ve cliva cu na smudra
+20:20:28 <donri> e'u lu ve ka'a li'u
+20:20:53 <donri> y ku'i do la'a djica tu'a lo'u xe ka'a li'u
+20:21:01 <donri> si le'u
+20:21:08 <omologos> ie doi la donri zo'o
+20:25:04 <codrus> doi donri. xu lo di'u po mi xamgu zenba
+20:25:39 <donri> ki'a
+20:28:11 <codrus> xu lo sedu'u di'u po mi cu xamgu zenba
+20:31:19 <codrus> ji'a mi pu bilga lo nu pilno zo sa
+20:51:29 <codrus> ji'a xu lo nu la'o ny. Twey ny. .e la'o .ny. Mungojelly .ny. cu ca'o te vitke ti
+20:52:16 <omologos> u'inai
+20:55:59 <codrus> mi na jimpe go'i
+20:59:52 <codrus> doi donri ko cikna
+20:59:57 <donri> ue
+21:13:24 <djanatyn> mi djica lo nu mi pilno lo mi skami .iku'i lo mi bruna ca pilno lo skami
+21:13:50 <djanatyn> .ija'e mi ba pilno lo skami .uinairu'e
+21:18:01 <djanatyn> ki'e
+21:20:40 <pafcribe> xruti
+21:20:48 <pafcribe> coi rodo
+21:22:56 <djanatyn> coi pafcribe .uisai
+21:23:19 <pafcribe> ma krinu lo ka gleki
+21:25:23 <djanatyn> rodo smaji .i mi nonkansa .u'i
+21:26:40 <pafcribe> ua
+21:26:43 <pafcribe> .i'i
+21:27:45 <pafcribe> mi rapli cliva
+21:28:02 <pafcribe> .imu'i mi baza xruti
+21:28:26 <pafcribe> u'u
+21:28:29 <djanatyn> je'e
+21:28:39 <djanatyn> co'o pafcribe
+21:29:01 <djanatyn> mi nonkansa .uinai
+21:29:36 <donri> mi ka'e kansa do doi djanatyn
+21:34:42 <donri> kei
+21:34:49 <codrus> ki'e
+22:23:28 <donri> me
+22:23:55 <Hugglesworth> coi rodo
+22:24:10 <Tene> coi
+22:29:13 <donri> ta'o ca le prulamdei lo mi pendo co'a jai fenki ba lo nu mi darxi ri fo lo ri flira
+22:31:08 <donri> ta'o ca le prulamdei lo mi pendo co'a jai fenki ba lo nu mi darxi py le dertu lo py flira
+22:40:16 <pafcribe> jundi
+22:40:22 <pafcribe> coi rodo
+22:47:44 <donri> do sampla bau ma
+22:50:00 <Hugglesworth> do sampla bau ma doi donri
+22:51:22 <donri> lo za'u pa mei
+22:51:43 <donri> i sampla ma sa'e
+22:53:50 <Hugglesworth> do sampla la makfa bau ma
+22:54:14 <donri> la paiton
+22:54:47 <Hugglesworth> ua ki'e
+23:12:53 <pafcribe> tatpi
+23:13:02 <pafcribe> mutce ba'e mutce tatpi
+23:13:08 <pafcribe> bazi sipna
+23:13:11 <pafcribe> co'o rodo
+23:27:14 <donri> ui
+00:04:06 * djanatyn xruti .ui
+00:04:19 <djanatyn> xu jundi doi rodo
+00:12:20 <djanatyn> mi cliva co'o
+00:49:44 <donri> ue xu do lazni doi la lazni
+00:50:05 <lazni> go'i
+00:50:15 <donri> u'i
+00:50:22 <donri> xu do slabu mi
+00:51:58 <donri> si ue
+00:52:48 <lazni_> mi'e la xydyx
+00:54:14 <lazni_> zo xydyx fu'inai
+00:54:47 <donri> ua sai
+00:55:13 <donri> coi ui xydyx
+00:55:22 <lazni_> coi donri
+01:18:43 <selckiku> coi xo do
+01:19:16 <donri> pa i coi
+01:19:33 <selckiku> .ui coi la donri
+01:20:08 <selckiku> lo cinri nu casnu cu fasnu za'a .i mi na tcidu le mulno
+01:20:17 <selckiku> mi pu zi co'a zgana
+01:20:38 <selckiku> jivna fi ma
+01:21:01 <donri> u'i
+01:22:27 <selckiku> li vo pi'e re pi'e no tcika fo mi .i ku'i la ckiku ca cavlu'i za'a se ki'u lo nu na'e marna co'e
+01:22:34 <selckiku> xu mi drani pilno zo pi'e
+01:23:06 <selckiku> mi djuno fi mo'a lojbo .i la .lojban. cu nandu bangu je'u
+01:23:34 <selckiku> le kanla be mi cu -fuzzy
+01:24:18 <selckiku> mi pu bilma .i ju'o cu'i ca'o bilma .i ku'i mutce milxe
+01:24:45 <donri> ia drani
+01:25:37 <donri> i bilma uu
+01:26:03 <selckiku> ma tcima do doi la donri .i dukse glare tcima la .vermont.
+01:26:43 <selckiku> la ckiku ca bilma ki'u le nu mi bilma .u'u
+01:26:46 <donri> y mi na djuno i mi za'e zo'o nerdo
+01:27:10 <selckiku> mi pinxe lo barda djacu gi'e binxo lo kanro .io .uo
+01:28:09 <selckiku> .ai mi finti lo jbobau cfika
+01:28:37 <donri> finti i'e
+01:28:52 <selckiku> ma masti cmene
+01:30:18 <selckiku> ca bivma'i .ui
+01:31:18 <selckiku> .ua nai
+01:32:42 <selckiku> .ai ca le laxma'i mi ba jbobau te cfika
+01:33:09 <selckiku> .ai mi rapli tcidu la .alis. .e la nicte cadzu .e ma
+01:33:26 <donri> e'u zo pavnonma'i
+01:34:09 <selckiku> za'e dorma'i
+01:34:35 <selckiku> ma smuni .i mi to'e morji
+01:34:35 * donri is libra
+01:35:04 <selckiku> .ua do jbena ca lo dorma'i xu
+01:35:18 <donri> u'i ie
+01:37:41 <selckiku> do cafne ke galfi pilno ko'a za'a doi la donri
+01:38:22 <donri> xu nelci
+01:38:51 <selckiku> go'i .i'e
+01:39:11 <selckiku> .i'e do sarji za'a
+01:40:47 <selckiku> la .lojban. cu kanro pe'a
+01:40:50 <selckiku> sarxe
+01:42:51 <selckiku> .u'e le minji cu morji le du'u mi cusku zo sarxe
+01:43:22 <selckiku> sarxe sarxe sarxe
+01:43:43 <selckiku> mi nelci zo sarxe .i mi sarji
+01:44:27 <donri> do sarxe zo sarxe lo ka sarxe
+01:45:14 <selckiku> .ui ro'a .i'i do mi sarxe lo ka pilno zo sarxe
+01:45:44 <selckiku> sarxe nunsnu
