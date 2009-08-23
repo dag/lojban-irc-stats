@@ -30,5 +30,5 @@ echo Cleaning up...
 rm -f pisg-$PISG.zip
 
 echo Generating statistics...
-./pisg/pisg -s -co $CONF
+pisg/pisg -s -co $CONF
 

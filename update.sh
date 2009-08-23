@@ -26,5 +26,5 @@ echo Cleaning up...
 rm -f pisg-$PISG.zip irclogs.zip all_logs.txt
 
 echo Generating statistics...
-./pisg/pisg -s -co $CONF
+pisg/pisg -s -co $CONF
 
