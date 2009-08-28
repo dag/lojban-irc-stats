@@ -16,8 +16,9 @@ rm -f index.html
 echo Downloading logs...
 rm -rf logs
 mkdir -p logs
-wget -q -O - "http://lojban.org/resources/irclog/lojban/$(date +%Y_%m)" |
-    perl -ne'$_=~/href="(.+?\.txt)"/&&print"http://lojban.org/resources/irclog/lojban/$1\n"' |
+URL="http://lojban.org/resources/irclog/lojban/$(date +%Y_%m)"
+wget -q -O - $URL |
+    perl -ne "\$_=~/href=\"(.+?\.txt)\"/&&print\"$URL/\$1\n\"" |
     xargs wget -q -P logs
 
 echo Processing logs...
