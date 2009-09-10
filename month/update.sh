@@ -28,7 +28,7 @@ for f in logs/*; do
 done
 
 echo Cleaning up...
-rm -f pisg-$PISG.zip
+rm -rf pisg-$PISG.zip logs
 
 echo Generating statistics...
 pisg/pisg -s -co $CONF
