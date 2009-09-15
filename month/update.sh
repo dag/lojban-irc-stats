@@ -27,9 +27,9 @@ for f in logs/*; do
     mv $f.tmp $f
 done
 
-echo Cleaning up...
-rm -rf pisg-$PISG.zip logs
-
 echo Generating statistics...
 pisg/pisg -s -co $CONF
+
+echo Cleaning up...
+rm -rf pisg-$PISG.zip logs
 
